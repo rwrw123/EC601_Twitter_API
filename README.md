@@ -5,3 +5,4 @@ Followed the Twitter tutorial through https://developer.twitter.com/en/docs/tuto
 
 Downloaded a sample code from Github, select the “recent_search.py” document. Installed the requests library in the terminal by running “pip install requests”. Then copied the personal Bearer Token to the line 7 in the “recent_search.py”. Run the program showing the user’s Twitter account activity information in the recent 7 days. Result as the screenshot here. 
 
+![alt text](https://github.com/rwrw123/EC601_Twitter_API/blob/main/api%20result.png)
